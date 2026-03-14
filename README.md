@@ -168,8 +168,6 @@ If you would like to improve the dashboard, dataset, or documentation, feel free
 
 This project is licensed under the MIT License.
 
-Copyright (c) 2026 Adarsh Verma
-
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files to deal in the software without restriction.
 
 The software is provided “as is”, without warranty of any kind.
